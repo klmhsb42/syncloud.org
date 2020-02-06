@@ -1,0 +1,127 @@
+(Frame1){
+Hello world,
+This is Syn cloud and I want to show you how to setup your device. 
+}
+
+(Frame2){
+Syn cloud free and open source. All your data will be stored at home, which you can easily access from all over the world.
+}
+
+(Frame3){
+First, it’s time to get a Syn cloud device. 
+}
+
+(Frame4-13){
+You can buy a plug-and-play device in our shop. You can find our shop under shop dot syn cloud dot org.
+}
+
+(Frame14){
+Later, you must connect your device to your router and depending on the device type, also to an external storage. We offer two types of devices.
+}
+
+(Frame15){
+One type, which requires an external storage.
+}
+
+(Frame16){
+And another type, which has already an internal storage and does not require an external storage. However, you can still use an external storage if you want. Keep in mind, that you can use only one storage a time.
+}
+
+(Frame17-18){
+Add the device of choice to the shop cart.
+}
+
+(Frame19-20){
+Get your device delivered in any country.
+}
+
+(Frame21){
+And fall in love if you have it first time in your hand.
+}
+
+(Frame22){
+In a second step, you must connect everything.
+}
+
+(Frame23){
+Plug in your device to power supply and connect it with your router by a LAN cable.
+}
+
+(Frame24-25){
+Depending on your device type, plug in an external storage, as well.
+}
+
+(Frame26){
+Now, there comes the activation.
+}
+
+(Frame27){
+Connect your smartphone to the Wifi of your router.
+}
+
+(Frame28){
+Download our syn cloud application for Android or for your I phone.
+}
+
+(Frame29){
+Sign in. You can use your username and password from your shop account. Then, press the plus button to search your device. If you have found it, press on the device name.
+}
+
+(Frame30){
+Your browser will open, and the activation interface should appear. If there is a security warning, you can click on more or advanced and accept the risk.
+}
+
+(Frame31){
+You will see the activation interface then.
+}
+
+(Frame32){
+Type in your e mail address and password same as in the shop or in the app. Type in a name you want for your device. With this URL, you will later access your device by the browser.
+}
+
+(Frame33){
+Create then an account with which you can sign into your device later. Use any username and password.
+}
+
+(Frame34){
+Press then activation. This can take a few minutes. 
+}
+
+(Frame35){
+After that, you will get redirect to your device user interface with your chosen URL. Same issue again, if there is a security warning, you can click on more or advanced and accept the risk. A certificate will be created for you soon to allow a secure access to your device. If you don’t have a certificate till next day, please contact our support.
+}
+
+(Frame36){
+If you can not access the device user interface by your URL, there is probably a so called “DNS rebind protection” in your router settings. Please browse to the web interface of your router and check for DNS rebind protection under your network settings. Add an exception for the domain syn cloud dot it. Now, you should be able to access your device by your URL. If not, please contact our support.
+}
+
+(Frame37){
+Now, you can make your device accessible from extern, if you want. For that, you must find out if you have version 4 or version 6 IP address.
+}
+
+(Frame38){
+That, you can find out in your device user interface under settings. Click then on Network. If you have IPv6, it will appear with the IP address of your device.
+}
+
+(Frame39){
+With IPv6 you can access your device from extern by default, so you don’t have to activate external access in the device settings. However, you must know, that you can only by an IPv6 network and that you cannot access from an IPv4 network. Sadly, many public networks like of companies or schools and many mobile networks do not have IPV6 support.
+}
+
+(Frame40){
+If you have IPv4, you must enable external access in your device settings. You must open two ports in your router called 80 and 443. You can try to do this with auto mode, but often it fails. However, there is no reason to worry.
+}
+
+(Frame41){
+You probably must enable UPnP in your router settings. Then try it again.
+}
+
+(Frame42){
+If it fails again, you must open port manually in your router settings. 80 and 443. Then, type 80 and 443 in their input fields in the device user interface. Now, you should be able to enable external access. If not, please contact our support.
+}
+
+(Frame43){
+
+}
+
+
+
